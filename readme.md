@@ -1,18 +1,18 @@
 # General information
 
 
-Cette publication est le fruit d'un travail pour un cours de publication numérique à l'Université de Lausanne, dispensé par Isaac Pante. Il consiste à la valorisation et au détournement des données d'un CV.
+Cette publication est le fruit d'un travail pour un cours de publication numérique à l'Université de Lausanne, dispensé par Isaac Pante. Il consiste à la valorisation de données avec les outils informatiques.
 
 
-# Technologie
+# Technologies
 
 Le projet a été mené sur le logiciel Visual Studio Code.
 
 # Purpose
 
 Mon but était de : 
-1. créer un cv avec la base universelle
-2. y ajouter des interactions numériques
+1. créer un cv avec une base universelle
+2. y ajouter des interactions numériques avec les éléments
 3. inclure des éléments de dossier de candidature (certificats, recommandations)
 4. détourner les attentes 
 
@@ -29,8 +29,8 @@ Pour cette première expérience, il était difficile d'aller plus loin. De nomb
 [Darkcode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) 
 apprentissage des :hover, des effets CSS
 [CVmaker](https://www.youtube.com/watch?v=cShcHypYNYo&t=809s)
-template de base pour le CV
-[CodingNepal] (https://www.youtube.com/channel/UCk7xIEmd3MeyhIu2StLX5yA)
+[codingnepal](https://www.youtube.com/channel/UCk7xIEmd3MeyhIu2StLX5yA)
+
 
 # Problems
 
@@ -40,5 +40,5 @@ Si le projet était à recommencer, je partirais d'une base 0 sans m'inspirer d'
 
 # Acknowledgments
 
-Le cours d'Isaac Pante reprenait les bases et les liens qui sont indispensables pour enrichir les contenus. Je n'ai malheureusement pas pu faire appel à un informaticien pour les problèmes que j'ai recontrés. 
+Le cours d'Isaac Pante reprenait les bases et les liens qui sont indispensables pour enrichir les contenus. Je n'ai malheureusement pas pu faire appel à un informaticien pour les problèmes que j'ai rencontrés. 
 
