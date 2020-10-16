@@ -34,7 +34,7 @@ apprentissage des :hover, des effets CSS
 
 # Problems
 
-Des éléments ont été modifiés dans le CSS pour qu'ils correspondent à l'affichage d'ordinateur initial (100%), car je n'arrivais pas à identifier d'où venaient certains décalages. Aussi, la visualisation attendue n'est possible que sur ordinateur (Windows ou Mac). Je n'ai pas saisi la visualisation mobile, qui donne un résultat désordonné avec le code actuel.
+Des éléments ont été modifiés dans le CSS pour qu'ils correspondent à l'affichage d'ordinateur initial (100%), car je n'arrivais pas à identifier d'où venaient certains décalages. Aussi, la visualisation attendue n'est possible que sur ordinateur portable (Windows ou Mac). Je n'ai pas saisi la visualisation mobile, qui donne un résultat désordonné avec le code actuel.
 Si le projet était à recommencer, je partirais d'une base 0 sans m'inspirer d'un template.
 
 
